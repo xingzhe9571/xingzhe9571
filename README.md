@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xingzhe9571
+- 👀 I’m interested in Statistics
+- 🌱 I’m currently learning R language and writing code
+- 📫 How to reach me doczou@126.com
